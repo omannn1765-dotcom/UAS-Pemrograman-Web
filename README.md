@@ -57,8 +57,8 @@ Project ini dibuat untuk memenuhi kebutuhan **Ujian Akhir Semester (UAS)** mata 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/maulanrizky/UAS-Pemrograman-Web.git
-cd UAS-Pemrograman-Web-Rizky
+git clone https://github.com/omannn1765-dotcom/UAS-Pemrograman-Web
+cd UAS-Pemrograman-Web
 ```
 
 ### 2. Jalankan Docker
